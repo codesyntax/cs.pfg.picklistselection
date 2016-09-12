@@ -1,17 +1,12 @@
-.. contents::
+Introduction
 
-.. Note!
-   -----
-   Update the following URLs to point to your:
+This product provides a new form field for PloneFormGen forms that allows order multiselection fields with picklist selection.
 
-   - code repository
-   - bug tracker
-   - questions/comments feedback mail
-   (do not set a real mail, to avoid spams)
 
-   Or remove it if not used.
+Installation
 
-- Code repository: http://svn.somewhere.com/...
-- Questions and comments to somemailing_list
-- Report bugs at http://bug.somewhere.com/..
+Add this product to your buildout file and rerun the buildout.
 
+Go to Site Setup -> Add ons and install it
+
+A new field will show in your PloneFormGen forms called MultiFileField.
